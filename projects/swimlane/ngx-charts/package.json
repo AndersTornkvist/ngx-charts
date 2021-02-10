@@ -1,10 +1,10 @@
 {
-  "name": "@swimlane/ngx-charts",
-  "version": "17.0.0",
+  "name": "@anderstornkvist/ngx-charts",
+  "version": "17.0.1-alpha.0",
   "description": "Declarative Charting Framework for Angular",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swimlane/ngx-charts.git"
+    "url": "git+https://github.com/AndersTornkvist/ngx-charts.git"
   },
   "keywords": [
     "angular",
@@ -29,11 +29,17 @@
     "Jayson Harshbarger",
     "Luis Bello"
   ],
+  "contributors": [
+    {
+      "name": "Anders Törnkvist",
+      "url": "https://github.com/AndersTornkvist"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/swimlane/ngx-charts/issues"
   },
-  "homepage": "https://github.com/swimlane/ngx-charts#readme",
+  "homepage": "https://github.com/AndersTornkvist/ngx-charts#readme",
   "peerDependencies": {
     "@angular/animations": ">=11.0.0",
     "@angular/cdk": ">=11.0.0",
